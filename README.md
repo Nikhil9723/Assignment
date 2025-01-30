@@ -16,5 +16,3 @@ Create an basics HTML page to get idea about the deprecated tag and also to lear
 # Conclusion 
 Assignment is all about to use our theoretical Knoweldge into practicale and also learn some new tags.
 # Assignment
-# Assignment
-# Assignment
